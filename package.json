@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-crud-application",
+  "version": "1.0.0",
+  "description": "Node.js CRUD Application using Express and MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "serve": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb",
+    "crud"
+  ],
+  "author": "Akshay Pithadiya",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.13.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
