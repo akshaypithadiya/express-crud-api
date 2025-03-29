@@ -108,7 +108,7 @@ DELETE /api/products/:id
 ## Folder Structure
 
 ```
-/nodejs-crud-application
+/node-crud-app
 │── /config
 │   ├── db.js            # Database connection setup
 │── /models
