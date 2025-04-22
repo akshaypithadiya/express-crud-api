@@ -1,8 +1,6 @@
 # Node.js CRUD Application
 
-This is a simple CRUD (Create, Read, Update, Delete) application built using Node.js, Express, and MongoDB.
-
-YouTube - https://www.youtube.com/watch?v=_7UQPve99r4
+A RESTful API for product management built with Node.js, Express, and MongoDB. Features complete CRUD operations, error handling, and a clean, maintainable architecture.
 
 ## Features
 
@@ -24,8 +22,8 @@ Ensure you have the following installed on your system:
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/nodejs-crud-application.git
-cd nodejs-crud-application
+git clone https://github.com/akshaypithadiya/express-mongo-crud-api.git
+cd express-mongo-crud-api
 ```
 
 ### 2. Install Dependencies
@@ -108,7 +106,7 @@ DELETE /api/products/:id
 ## Folder Structure
 
 ```
-/node-crud-app
+/express-mongo-crud-api
 │── /config
 │   ├── db.js            # Database connection setup
 │── /models

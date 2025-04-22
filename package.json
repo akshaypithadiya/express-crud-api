@@ -1,7 +1,7 @@
 {
-  "name": "nodejs-crud-application",
+  "name": "express-mongo-crud-api",
   "version": "1.0.0",
-  "description": "Node.js CRUD Application using Express and MongoDB",
+  "description": "A RESTful API for product management built with Node.js, Express, and MongoDB. Features complete CRUD operations, error handling, and a clean, maintainable architecture.",
   "main": "server.js",
   "scripts": {
     "serve": "node server.js",
