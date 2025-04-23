@@ -108,20 +108,24 @@ DELETE /api/products/:id
 ```
 /express-mongo-crud-api
 │── /config
-│   ├── db.js            # Database connection setup
+│   ├── db.js                    # Database connection setup
 │── /models
-│   ├── product.model.js # Mongoose Product schema
+│   ├── product.model.js         # Mongoose Product schema
 │── /routes
-│   ├── product.routes.js # Routes for product-related API endpoints
+│   ├── product.routes.js        # Routes for product-related API endpoints
 │── /controllers
-│   ├── product.controller.js # Controller functions handling requests
+│   ├── product.controller.js    # Controller functions handling requests
 │── /middlewares
-│   ├── errorHandler.js  # Global error handler middleware
+│   ├── errorHandler.js          # Global error handler middleware
 │── /utils
-│   ├── logger.js        # Logging utility (optional)
-│── /public              # Static files (if needed)
-│── .env                 # Environment variables
-│── .gitignore           # Ignore node_modules, .env, etc.
-│── package.json         # Dependencies & scripts
-│── server.js            # Entry point for the application
+│   ├── logger.js                # Logging utility (optional)
+│── /public                      # Static files (if needed)
+│── .env                         # Environment variables
+│── .gitignore                   # Ignore node_modules, .env, etc.
+│── package.json                 # Dependencies & scripts
+│── server.js                    # Entry point for the application
 ```
+
+## Resources
+
+- YouTube - https://www.youtube.com/watch?v=_7UQPve99r4
