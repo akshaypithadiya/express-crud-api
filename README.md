@@ -1,6 +1,6 @@
-# Express Mongo CRUD API
+# Express MongoDB CRUD API
 
-A RESTful API for product management built with Node.js, Express, and MongoDB. Features complete CRUD operations, error handling, and a clean, maintainable architecture.
+REST API for product management built with Node.js, Express, and MongoDB. Features complete CRUD operations, error handling, and a clean, maintainable architecture.
 
 ## Features
 
